@@ -10,3 +10,4 @@ virtualenv venv
 pip install -r requirements
 python protein_ids.py
 ```
+Output is a % seperated file data/output.txt.
